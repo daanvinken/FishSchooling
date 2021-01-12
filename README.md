@@ -1,9 +1,4 @@
-# Co-evolution of fish schooling predator-prey interactions
-Students:
-* Martijn Messanella, 10760148
-* Jan Schutte, 11030844
-* Daan Vinken, 12398233
-* Laura Zwaan, 11207078
+# Co-evolution of fish schooling predator-prey interactions (group project)
 
 
 # File overview
